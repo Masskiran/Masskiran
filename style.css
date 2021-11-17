@@ -1,0 +1,184 @@
+body {
+    font-size: 15pt;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+    font-size: 15pt;
+}
+.button{
+  font-size: ;
+}
+.navbar{
+  background: white
+}
+.navbar{
+  position: fixed
+}
+.navbar{
+  border: solid wheat
+}
+
+.button{
+  text-decoration: none;
+}
+.button{
+  margin-left: 50px
+}
+.button{
+  border-radius: 10px
+}
+.button{
+  border: solid orange
+}
+.button{
+  color: black
+}
+.button:hover{
+  background: orange;
+  color: white
+}
+.b{
+  color: orange
+}
+
+.button2{
+  text-decoration: none
+}
+.button2{
+  margin-left: 50px
+}
+.button2{
+  border-radius: 10px
+}
+.button2{
+  border: solid orange
+}
+.button2{
+  color: black
+}
+.button2:hover{
+  background: orange;
+  color: white
+}
+.h2{
+  color: orange
+}
+.p{
+  color: black
+}
+
+.vivek{
+  background: lightgray
+}
+.vivek{
+  padding: 20px
+}
+
+.button3{
+  text-decoration: none
+}
+.button3{
+  margin-left: 130px
+}
+.button3{
+  border-radius: 10px
+}
+.button3{
+  border: solid orange
+}
+.button3{
+  color: black
+}
+.button3:hover{
+  background: orange;
+  color: black
+}
+.home{
+  background: orange;
+  
+}
+.home{
+  padding: 10px
+}
+.home{
+ border-radius: 100px
+}
+.home{
+border: solid gold
+}
+.apple{
+  background: #76E6B7
+}
+.apple{
+  padding: 10px
+}
+.apple{
+ border-radius: 100px
+}
+.apple{
+border: solid gold
+}
+
+.button4{
+  text-decoration: none;
+  color: black;
+  border: solid orange ;
+  border-radius: 50px;
+  margin-left: 120px;
+}
+.button4:hover{
+  background:#FF18F4;
+  color: white
+}
+
+.button5{
+  text-decoration: none;
+  color: black;
+  border: solid orange ;
+  border-radius: 50px;
+  margin-left: 115px;
+}
+.button5:hover{
+  background: #071BFF;
+  color: white;
+}
+.chess{
+  background: #0ABDFF;
+  border: solid #C60A4C;
+  border-radius: 100px;
+  padding: 20px;
+}
+
+.p5{
+  text-align: center;
+  color: #6C7679;
+}
+.ffk{
+  text-decoration: none;
+  margin-left: 60px;
+  color: black;
+  border: solid orange;
+ border-radius: 50px;
+}
+
+.fk{
+  text-decoration: none;
+  color: black;
+  border: solid orange ;
+  border-radius: 50px;
+  margin-left: 50px;
+}
+
+.hiii{
+  text-align: center;
+}
+.of{
+  color: orange;
+  text-align: center;
+}
+.z{
+  text-align: center
+}
